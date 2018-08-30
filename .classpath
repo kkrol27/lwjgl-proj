@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/LWJGL3.1.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/PNGDecoder1.0"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="universe"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="src" path="render"/>
+	<classpathentry kind="src" path="newCode"/>
+	<classpathentry kind="src" path="utilities"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
